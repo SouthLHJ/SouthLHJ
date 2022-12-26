@@ -61,7 +61,7 @@
 
 <div align="center">
   <p> 노션 정리 </p>
-  https://www.notion.so/0682c4c9c7ee4e27aee3e2741dd346d4?v=d1a54aa3e81c489c904ba40a86295813
+  https://raspy-headlight-2cb.notion.site/ae6c5bdc05d7475cac454587a9756a64
   <p></p>
   
   | 프로젝트 | git 링크 | 배포 |
