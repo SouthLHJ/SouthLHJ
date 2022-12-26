@@ -59,7 +59,7 @@
 
 <h3 align="center">🖥프로젝트</h3>
 
-<div>
+<div align="center">
   <p> 노션 정리 </p>
   https://www.notion.so/0682c4c9c7ee4e27aee3e2741dd346d4?v=d1a54aa3e81c489c904ba40a86295813
   <p></p>
