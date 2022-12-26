@@ -59,8 +59,20 @@
 
 <h3 align="center">🖥프로젝트</h3>
 
-<div align="center">
-
-https://www.notion.so/0682c4c9c7ee4e27aee3e2741dd346d4?v=d1a54aa3e81c489c904ba40a86295813
-
+<div>
+  <p> 노션 정리 </p>
+  https://www.notion.so/0682c4c9c7ee4e27aee3e2741dd346d4?v=d1a54aa3e81c489c904ba40a86295813
+  <p></p>
+  
+  | 프로젝트 | git 링크 | 배포 |
+  | :------: | :------: | :------: |
+  | Ajax 채팅 사이트 | https://github.com/SouthLHJ/Simple-chat.git |
+  | 유기동물 조회 사이트 | https://github.com/SouthLHJ/Abandoned-animal.git |
+  | 가계부 사이트 | https://github.com/SouthLHJ/Account-book.git |
+  | 숫자 야구 게임 앱 | https://github.com/SouthLHJ/Num-baseball.git |
+  | 롤 챔프 설명 및 유저 검색 앱 | https://github.com/SouthLHJ/LoL.git |
+  | SNS 소통 앱 | https://github.com/SouthLHJ/React-Sns.git |
+  | 반려견 케어 앱 | https://github.com/SouthLHJ/DogCare.git |
+  | Airbnb Clone 사이트 | https://github.com/SouthLHJ/airbnb-clone.git | https://studyabclone.vercel.app/ |
+  | Discord 반응형 웹 | https://github.com/SouthLHJ/discord.git | https://southlhj.github.io/discoo |
 </div>
